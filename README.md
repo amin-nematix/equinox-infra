@@ -1,1 +1,1 @@
-# Blackfox Core Platform
+# Equinox Core Platform
