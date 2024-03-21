@@ -1,3 +1,4 @@
 [submodule "neutrino-platform-builder"]
     path = neutrino-platform-builder
-    url = https://aminnematix/neutrino-io/neutrino-platform-builder.git
+    url = https://nematix.com/neutrino-io/neutrino-platform-builder.git
+    branch = main
