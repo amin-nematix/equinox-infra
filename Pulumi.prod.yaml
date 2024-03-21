@@ -1,0 +1,17 @@
+encryptionsalt: v1:FmlPGBv8ozs=:v1:ruqfTH3xbTFGbvOs:ves6FjD08ro7wzKgXmUjm/+pMry+ag==
+config:
+  aws:accessKey: AKIATTGOK4RLBCEWFKNB
+  aws:region: ap-southeast-1
+  aws:secretKey:
+    secure: v1:WWBFTUN1s1hZKgQd:RwnwLt19efSzLiImMPG4L1lmmIbW7vxzzkS855zbiuN+U/1tw4cnnTeOXlKJe8KK1JKl71CXYRU=
+  cloudflare:apiToken:
+    secure: v1:0/7eIPX31zpuu+r0:S+RaARbSLO4Ko27lJAKGNuVU90wcFM16GBQ/0ff6IHqqS8qlNvrr7RNP0XxluC/4JE82dqpNnO4=
+  neutrino:service:
+    dbName: blackfox
+    dbPassword:
+      secure: v1:mPVWM+hxfIDldmdj:Q93ohiwXhHHPwP9AbEgIAQs2g7libmFd
+    dbUser: dba
+    s3Key:
+      secure: v1:FsO+i+lnT17gvPqF:gjs5X8Pe/kZ0q+tY588Oi48Yd6tWAHZv6OtiHkQTV78W+XPU
+    s3Secret:
+      secure: v1:uD5Cpt9V3mmvPezF:CICVEKOtp0SOoZGlOETThkEUtiBJSuxSpKKkwPTmGhf+W4csSLnvKxy6TlQ+VF+V54c/PPCc3rI=

@@ -1,0 +1,3 @@
+name: blackfox-infra
+runtime: nodejs
+description: Blackfox Core Platform
