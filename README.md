@@ -1,4 +1,1 @@
-# eqx-platform-builder
-Equinox Platform Builder
-
-E Equinox Infra
+# Equinox Core Platform
